@@ -1,4 +1,4 @@
-# conflict-resoluiton
+# conflict-resolution
 oh no! A merge conflict!
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
